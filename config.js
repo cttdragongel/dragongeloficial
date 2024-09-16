@@ -1,6 +1,6 @@
 // config do pix
 const pix = {
-    chave : "4d752bdf-167c-49a4-b50a-eb3b499f7ea7",
+    chave : "0336826a-f3f9-4ec9-81f5-25ec7706e589",
     descricao: "SEGURO",
     instituicao: "MERCADO LIVRE",
     cidade: "SAO PAULO"
