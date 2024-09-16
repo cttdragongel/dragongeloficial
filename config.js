@@ -12,7 +12,7 @@ const produto = {
     nome: "Cadeira Escritório Ergonômica Executiva Premium Sedem T18 - Frete Grátis + Garantia Extendida",
     preco: {
         original: "189,90",
-        desconto: "89,90"
+        desconto: "89,91"
     },
     avaliacoes: [
         {
